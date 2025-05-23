@@ -1,6 +1,6 @@
-# 🧪 GreatFrontEnd Playwright Test Suite
+# 🧪 Playwright Test Suite
 
-This repository contains an automated end-to-end (E2E) test suite for validating the core workflows and user experience of the [GreatFrontEnd](https://www.greatfrontend.com/) web application using **Playwright** and the **Page Object Model (POM)** structure.
+This repository contains an automated end-to-end (E2E) test suite for validating the core workflows and user experience of the web application using **Playwright** and the **Page Object Model (POM)** structure.
 
 ---
 
@@ -47,9 +47,9 @@ PLAYWRIGHTPOC/
 
 └── README.md                   # Project instructions
 
-# 🎭 Playwright POC for GreatFrontEnd
+# 🎭 Playwright POC
 
-This repository is a Playwright-based automation proof-of-concept designed to test critical workflows of the [GreatFrontEnd](https://www.greatfrontend.com/) platform.
+This repository is a Playwright-based automation proof-of-concept designed to test critical workflows of the platform.
 
 ---
 
