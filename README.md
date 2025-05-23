@@ -9,6 +9,7 @@ This repository contains an automated end-to-end (E2E) test suite for validating
 # PlaywrightPOC
 
 PLAYWRIGHTPOC/
+
 ├── node_modules/                # Installed dependencies
 
 ├── pageObjects/                 # All page object classes (POM)
